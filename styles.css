@@ -203,6 +203,10 @@ h2 {
     font-size: 0.8rem;
 }
 
+.boldspecial2 {
+    padding: 0 0 0 0;
+}
+
 .slider {
     width: 100%;
     height: auto;
@@ -219,7 +223,6 @@ h2 {
 }
 
 .slider .slide {
-    width: 100px;
     height: 100px;
     flex-shrink: 0;
     display: flex;
@@ -271,7 +274,7 @@ h2 {
     width: 100%;
     display: flex;
     justify-content: center;
-    padding: 1rem 0;
+    padding: 0 0 1rem 0;
 }
 
 .carrusel {
